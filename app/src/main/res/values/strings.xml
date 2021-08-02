@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplikasi Kamus</string>
+    <string name="title_activity_kamus">Kamus Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anb">a.n.b</string>
+    <string name="dummy_description">(atas nama beliau) in this name</string>
+    <string name="indonesia_to_english">Indonesia To English</string>
+    <string name="english_to_indonesia">English To Indonesia</string>
+    <string name="loading_text"><![CDATA[Memuat Kata Indonesia & Inggris]]></string>
+    <string name="failed_message">Gagal memuat data</string>
+</resources>
